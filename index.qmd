@@ -17,7 +17,7 @@ title-block-banner: true
 
 ###넘파이
 
-넘파이 패키지를 불러옵시다. 
+넘파이 패키지를 불러옵시다!
 
 ```{python}
 import numpy as np
