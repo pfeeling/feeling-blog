@@ -1,0 +1,12 @@
+{
+  "hash": "89696bec948ddc5154aeb5a3e53aade3",
+  "result": {
+    "engine": "jupyter",
+    "markdown": "---\ntitle: \"my first post\"\nauthor: seongpil\n\nlisting:\n  contents: posts\n  sort: \"date desc\"\n  type: default\n  categories: true\n  sort-ui: false\n  filter-ui: false\npage-layout: full\ntitle-block-banner: true\n---\n\n\n## 파이썬 데이터 분석\n\n###넘파이\n\n넘파이 패키지를 불러옵시다!\n\n::: {#88acd2f4 .cell execution_count=1}\n``` {.python .cell-code}\nimport numpy as np\n\na=np.array([3,2,15])\na\n```\n\n::: {.cell-output .cell-output-display execution_count=1}\n```\narray([ 3,  2, 15])\n```\n:::\n:::\n\n\n",
+    "supporting": [
+      "index_files"
+    ],
+    "filters": [],
+    "includes": {}
+  }
+}
